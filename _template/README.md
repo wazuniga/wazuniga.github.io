@@ -7,6 +7,7 @@ Supplementary material for
 ## Contents
 
 ```
+papers/  PDF versions of the papers
 code/    source code (and build/run instructions below)
 data/    data used in the paper
 latex/   LaTeX source of the paper (arXiv package)

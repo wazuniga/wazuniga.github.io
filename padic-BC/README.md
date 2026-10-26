@@ -14,6 +14,7 @@ the papers, and the LaTeX source of the long paper.
 ## Contents
 
 ```
+papers/            PDF versions of the two papers
 code/sim/          avalanche simulations (C) and their analysis/plotting (Python)
 code/smallworld/   small-world tests: sparse graphs and spreading times (C, Python)
 code/figures/      scripts for the analytic figures (connection matrices, spectrum,

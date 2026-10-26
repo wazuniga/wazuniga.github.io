@@ -8,6 +8,7 @@ Every project folder has the same layout:
 ```
 <slug>/
   index.html   the project page (title, papers, links to every file)
+  papers/      PDF versions of the papers
   README.md    how to build, run and reproduce the results
   code/        source code
   data/        data used in the papers
