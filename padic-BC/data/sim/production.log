@@ -1,0 +1,127 @@
+== tree sigma=0.25
+   b=2.50000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.75000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.37500 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.18750 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.09375 curv=-0.645 early=-0.048 late=-0.693 slopeP=-1.266
+   b=1.14062 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.11719 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.08203 curv=-2.039 early=-0.519 late=-2.558 slopeP=-2.220
+   b=1.09961 curv=-0.494 early=-0.098 late=-0.593 slopeP=-1.231
+   b=1.10840 curv=+0.245 early=+0.069 late=+0.314 slopeP=-0.875
+   b=1.10400 curv=-0.189 early=+0.017 late=-0.172 slopeP=-1.042
+   b=1.10620 curv=+0.289 early=+0.021 late=+0.309 slopeP=-0.943
+   b=1.10291 curv=-0.691 early=-0.218 late=-0.909 slopeP=-1.410
+   b=1.10455 curv=-0.231 early=-0.128 late=-0.359 slopeP=-1.129
+   b=1.10538 curv=-0.047 early=-0.038 late=-0.085 slopeP=-1.053
+   bc=1.10579  (218s)
+   done (342s) flagged=0.0011
+== tree sigma=0.5
+   b=2.50000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.75000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.37500 curv=+0.191 early=+0.021 late=+0.212 slopeP=-0.711
+   b=1.18750 curv=-3.021 early=-0.942 late=-3.963 slopeP=-3.003
+   b=1.28125 curv=-2.070 early=-0.366 late=-2.436 slopeP=-2.296
+   b=1.32812 curv=-0.788 early=-0.227 late=-1.016 slopeP=-1.414
+   b=1.35156 curv=-0.999 early=-0.259 late=-1.258 slopeP=-1.537
+   b=1.38672 curv=+0.779 early=+0.325 late=+1.105 slopeP=-0.514
+   b=1.36914 curv=-0.141 early=+0.002 late=-0.138 slopeP=-0.949
+   b=1.37793 curv=+0.303 early=+0.171 late=+0.473 slopeP=-0.679
+   b=1.37354 curv=-0.012 early=+0.110 late=+0.099 slopeP=-0.812
+   b=1.37573 curv=+0.737 early=+0.223 late=+0.960 slopeP=-0.585
+   b=1.37244 curv=+0.262 early=+0.048 late=+0.311 slopeP=-0.813
+   b=1.37079 curv=-0.146 early=+0.014 late=-0.132 slopeP=-0.956
+   b=1.37161 curv=+0.009 early=+0.060 late=+0.069 slopeP=-0.899
+   bc=1.37120  (375s)
+   done (475s) flagged=0.0020
+== tree sigma=0.75
+   b=2.50000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.75000 curv=+0.117 early=+0.186 late=+0.303 slopeP=-0.608
+   b=1.37500 curv=-2.195 early=-1.247 late=-3.442 slopeP=-3.159
+   b=1.56250 curv=-2.291 early=-0.485 late=-2.776 slopeP=-2.655
+   b=1.65625 curv=-0.871 early=-0.162 late=-1.033 slopeP=-1.299
+   b=1.70312 curv=-0.363 early=-0.021 late=-0.384 slopeP=-0.912
+   b=1.72656 curv=-0.403 early=+0.056 late=-0.348 slopeP=-0.860
+   b=1.76172 curv=+0.634 early=+0.357 late=+0.991 slopeP=-0.373
+   b=1.74414 curv=+0.167 early=+0.202 late=+0.369 slopeP=-0.573
+   b=1.73535 curv=-0.082 early=+0.108 late=+0.025 slopeP=-0.702
+   b=1.73975 curv=+0.024 early=+0.189 late=+0.213 slopeP=-0.633
+   b=1.73755 curv=-0.083 early=+0.124 late=+0.041 slopeP=-0.695
+   b=1.74084 curv=+0.209 early=+0.204 late=+0.413 slopeP=-0.565
+   b=1.73920 curv=+0.110 early=+0.159 late=+0.269 slopeP=-0.616
+   b=1.73837 curv=-0.010 early=+0.156 late=+0.145 slopeP=-0.657
+   bc=1.73878  (433s)
+   done (629s) flagged=0.0081
+== tree sigma=1.0
+   b=2.50000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.75000 curv=-3.066 early=-0.849 late=-3.914 slopeP=-3.383
+   b=2.12500 curv=-0.318 early=+0.107 late=-0.211 slopeP=-0.682
+   b=2.31250 curv=+0.671 early=+0.567 late=+1.238 slopeP=-0.138
+   b=2.21875 curv=+0.322 early=+0.315 late=+0.637 slopeP=-0.329
+   b=2.17188 curv=+0.054 early=+0.204 late=+0.258 slopeP=-0.490
+   b=2.14844 curv=-0.354 early=+0.119 late=-0.234 slopeP=-0.717
+   b=2.18359 curv=+0.232 early=+0.293 late=+0.524 slopeP=-0.399
+   b=2.16602 curv=-0.027 early=+0.203 late=+0.176 slopeP=-0.523
+   b=2.17480 curv=+0.080 early=+0.257 late=+0.337 slopeP=-0.437
+   b=2.17041 curv=+0.030 early=+0.227 late=+0.257 slopeP=-0.494
+   b=2.16821 curv=-0.017 early=+0.199 late=+0.183 slopeP=-0.521
+   b=2.17151 curv=+0.099 early=+0.270 late=+0.369 slopeP=-0.442
+   b=2.16986 curv=+0.003 early=+0.251 late=+0.254 slopeP=-0.468
+   b=2.16904 curv=-0.015 early=+0.236 late=+0.221 slopeP=-0.486
+   bc=2.16945  (611s)
+   done (941s) flagged=0.0213
+== tree sigma=1.5
+   b=2.50000 curv=-3.057 early=-0.641 late=-3.698 slopeP=-2.981
+   b=3.25000 curv=+0.196 early=+0.426 late=+0.622 slopeP=-0.159
+   b=2.87500 curv=-0.802 early=-0.046 late=-0.848 slopeP=-0.953
+   b=3.06250 curv=-0.170 early=+0.185 late=+0.015 slopeP=-0.447
+   b=3.15625 curv=-0.033 early=+0.328 late=+0.295 slopeP=-0.283
+   b=3.20312 curv=+0.054 early=+0.399 late=+0.453 slopeP=-0.216
+   b=3.17969 curv=+0.073 early=+0.378 late=+0.450 slopeP=-0.224
+   b=3.14453 curv=-0.051 early=+0.283 late=+0.232 slopeP=-0.322
+   b=3.16211 curv=+0.006 early=+0.336 late=+0.342 slopeP=-0.265
+   b=3.15332 curv=-0.011 early=+0.307 late=+0.296 slopeP=-0.290
+   b=3.15771 curv=-0.011 early=+0.322 late=+0.311 slopeP=-0.284
+   b=3.15991 curv=+0.043 early=+0.323 late=+0.365 slopeP=-0.264
+   b=3.15662 curv=-0.015 early=+0.312 late=+0.296 slopeP=-0.273
+   b=3.15826 curv=+0.020 early=+0.320 late=+0.340 slopeP=-0.271
+   b=3.15744 curv=+0.001 early=+0.319 late=+0.321 slopeP=-0.267
+   bc=3.15703  (1321s)
+   done (2025s) flagged=0.0771
+== tree sigma=2.5
+   b=2.50000 curv=-47.747 early=-2.253 late=-50.000 slopeP=-5.798
+   b=3.25000 curv=-3.715 early=-1.240 late=-4.956 slopeP=-3.526
+   b=3.62500 curv=-3.423 early=-0.807 late=-4.230 slopeP=-3.116
+   b=3.81250 curv=-3.284 early=-0.607 late=-3.890 slopeP=-3.154
+   b=3.90625 curv=-2.326 early=-0.513 late=-2.839 slopeP=-2.615
+   b=3.95312 curv=-2.474 early=-0.454 late=-2.927 slopeP=-2.588
+   b=3.97656 curv=-4.807 early=-1.677 late=-6.484 slopeP=-4.000
+   b=4.01172 curv=-5.362 early=-1.663 late=-7.025 slopeP=-4.748
+   b=4.02930 curv=-5.290 early=-1.601 late=-6.891 slopeP=-4.242
+   b=4.03809 curv=-5.647 early=-1.581 late=-7.228 slopeP=-4.521
+   b=4.04248 curv=-3.588 early=-1.566 late=-5.154 slopeP=-4.286
+   b=4.04468 curv=-45.125 early=-4.875 late=-50.000 slopeP=-6.715
+   b=4.04797 curv=-45.675 early=-4.325 late=-50.000 slopeP=-4.948
+   b=4.04962 curv=-45.119 early=-4.881 late=-50.000 slopeP=-7.266
+   b=4.05045 curv=-45.098 early=-4.902 late=-50.000 slopeP=-7.417
+   bc=4.05086  (7s)
+   done (10s) flagged=0.0000
+== chain sigma=0.0
+   b=2.50000 curv=-4.636 early=-1.849 late=-6.484 slopeP=-4.432
+   b=3.25000 curv=-3.711 early=-0.865 late=-4.576 slopeP=-3.298
+   b=3.62500 curv=-2.349 early=-0.498 late=-2.848 slopeP=-2.401
+   b=3.81250 curv=-2.395 early=-0.302 late=-2.697 slopeP=-2.183
+   b=3.90625 curv=-1.695 early=-0.281 late=-1.976 slopeP=-1.744
+   b=3.95312 curv=-1.531 early=-0.261 late=-1.792 slopeP=-1.611
+   b=3.97656 curv=-3.813 early=-1.013 late=-4.827 slopeP=-3.527
+   b=4.01172 curv=-3.808 early=-0.928 late=-4.736 slopeP=-3.628
+   b=4.02930 curv=-4.011 early=-0.892 late=-4.903 slopeP=-3.563
+   b=4.03809 curv=-4.284 early=-0.866 late=-5.151 slopeP=-3.629
+   b=4.04248 curv=-3.239 early=-0.850 late=-4.089 slopeP=-3.285
+   b=4.04468 curv=-47.026 early=-2.974 late=-50.000 slopeP=-5.139
+   b=4.04797 curv=-3.523 early=-2.930 late=-6.453 slopeP=-5.594
+   b=4.04962 curv=-12.234 early=-2.891 late=-15.124 slopeP=-6.257
+   b=4.05045 curv=-47.073 early=-2.927 late=-50.000 slopeP=-6.079
+   bc=4.05086  (7s)
+   done (9s) flagged=0.0000
+ALL DONE

@@ -1,0 +1,19 @@
+   b=2.50000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.75000 curv=+9.000 early=+0.000 late=+0.000 slopeP=+0.000
+   b=1.37500 curv=-3.987 early=-0.847 late=-4.834 slopeP=-3.191
+   b=1.56250 curv=-0.707 early=-0.023 late=-0.730 slopeP=-1.022
+   b=1.65625 curv=+0.462 early=+0.301 late=+0.763 slopeP=-0.412
+   b=1.60938 curv=+0.048 early=+0.100 late=+0.148 slopeP=-0.712
+   b=1.58594 curv=-0.312 early=+0.050 late=-0.262 slopeP=-0.819
+   b=1.59766 curv=-0.543 early=-0.009 late=-0.553 slopeP=-0.964
+   b=1.61523 curv=+0.039 early=+0.139 late=+0.179 slopeP=-0.651
+   b=1.60645 curv=-0.291 early=+0.055 late=-0.236 slopeP=-0.831
+   b=1.61084 curv=-0.125 early=+0.107 late=-0.017 slopeP=-0.716
+   b=1.61304 curv=-0.080 early=+0.130 late=+0.049 slopeP=-0.671
+   b=1.61414 curv=-0.075 early=+0.103 late=+0.027 slopeP=-0.724
+   b=1.61578 curv=+0.094 early=+0.176 late=+0.270 slopeP=-0.611
+   b=1.61496 curv=+0.051 early=+0.139 late=+0.189 slopeP=-0.651
+   b=1.61455 curv=-0.016 early=+0.142 late=+0.126 slopeP=-0.683
+   bc=1.61475  (1292s)
+   done (2213s)
+ALL DONE

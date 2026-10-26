@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>p-Adic Buice–Cowan theory: code and data</title>
+<style>
+  body { font-family: Georgia, "Times New Roman", serif; max-width: 46rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; color: #1a1a1a; background: #fff; }
+  h1 { font-size: 1.5rem; } h2 { font-size: 1.15rem; margin-top: 2rem; }
+  code, pre { font-family: Menlo, Consolas, monospace; font-size: 0.85rem; }
+  pre { background: #f4f4f2; padding: 0.8rem; overflow-x: auto; }
+  li { margin: 0.2rem 0; }
+</style>
+</head>
+<body>
+<h1><i>p</i>-Adic Buice–Cowan theory: code, data and LaTeX source</h1>
+<p>Supplementary material for</p>
+<ul>
+  <li>W. A. Zúñiga-Galindo, <i>p-Adic statistical field theory of fluctuation effects in hierarchical neural networks</i>.</li>
+  <li>W. A. Zúñiga-Galindo, <i>Hierarchical connectivity sets the upper critical dimension of neural avalanches</i>.</li>
+</ul>
+<p>Instructions for building, running and regenerating the figures are in the <a href="README.md">README</a>.</p>
+<p>Everything below (code and data) in one file: <a href="padic-BC_code_data.zip">padic-BC_code_data.zip</a>.</p>
+
+<h2>Code</h2>
+<ul>
+  <li>code/sim/ — avalanche simulations: <a href="code/sim/aval.c">aval.c</a>, <a href="code/sim/avalp.c">avalp.c</a>; drivers <a href="code/sim/crit.py">crit.py</a>, <a href="code/sim/production.py">production.py</a>, <a href="code/sim/extra.py">extra.py</a>, <a href="code/sim/lp.py">lp.py</a>, <a href="code/sim/lp_seeds.py">lp_seeds.py</a>; analysis <a href="code/sim/analyze.py">analyze.py</a>, <a href="code/sim/lp_analyze.py">lp_analyze.py</a>, <a href="code/sim/lp_test.py">lp_test.py</a>; plots <a href="code/sim/plot_aval.py">plot_aval.py</a>, <a href="code/sim/plot_lp.py">plot_lp.py</a></li>
+  <li>code/smallworld/ — small-world tests: <a href="code/smallworld/cover.c">cover.c</a>, <a href="code/smallworld/levy.c">levy.c</a>, <a href="code/smallworld/spread.c">spread.c</a>, <a href="code/smallworld/graph.py">graph.py</a>, <a href="code/smallworld/graph2.py">graph2.py</a>, <a href="code/smallworld/plot_sw.py">plot_sw.py</a></li>
+  <li>code/figures/ — analytic figures: <a href="code/figures/make_figs.py">make_figs.py</a>, <a href="code/figures/make_fig_regional.py">make_fig_regional.py</a></li>
+</ul>
+
+<h2>Data</h2>
+<ul>
+  <li><a href="data/sim/summary.json">data/sim/summary.json</a>, <a href="data/sim/summary_levy.json">summary_levy.json</a> — critical points and exponents (Table II)</li>
+  <li>data/sim/res_*.npz — avalanche sizes, durations and spreading curves for each network</li>
+  <li>data/sim/lps_*.npy, <a href="data/sim/lp_result.json">lp_result.json</a> — log-periodicity test</li>
+  <li>data/smallworld/ — spreading times (cov_*.txt, lv_*.txt) and graph statistics (<a href="data/smallworld/graph.json">graph.json</a>, <a href="data/smallworld/graph2.json">graph2.json</a>, <a href="data/smallworld/cover.json">cover.json</a>)</li>
+</ul>
+
+<h2>LaTeX source</h2>
+<ul>
+  <li><a href="latex/padic_BC_arxiv_v267.zip">latex/padic_BC_arxiv_v267.zip</a> — source of the long paper (.tex, REVTeX files, figures)</li>
+</ul>
+
+<p style="margin-top:2rem;font-size:0.9rem;color:#555">The author used Claude (Anthropic) to help implement the numerical simulation code, as stated in the Methods of both papers.</p>
+</body>
+</html>
